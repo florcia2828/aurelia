@@ -3,10 +3,12 @@
 using namespace std;
 int main()
 {
-	int x = 0;
-	signed int y = 10;
-	int z = 0;
-	cout << "Zmienna x = " << x << " y = " << y << " z = " << z;
+	cout << "      X	   XXX" << endl;
+	cout << "     X X	   X  X" << endl;
+	cout << "    X   X	   X  X" << endl;	
+	cout << "   XXXXXXX	   XXX" << endl;	
+	cout << "  X       X   X  X" << endl;
+	cout << " X         X  X   X" << endl;
 
 }
 
